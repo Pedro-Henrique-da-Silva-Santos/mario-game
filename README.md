@@ -1,2 +1,2 @@
 # mario-game
-Joguinho WEB Simples do Mário
+Jogo WEB Simples do Mário
